@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2026-01-04T14:07:34.394894",
+    "query": "मूर्खभृत्यस्य कथा किम्?",
+    "latency_seconds": 0.431,
+    "num_docs_retrieved": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2026-01-04T14:11:38.958103",
+    "query": "कालीदासस्य चातुर्यं वर्णयतु",
+    "latency_seconds": 0.185,
+    "num_docs_retrieved": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2026-01-04T14:48:17.476537",
+    "query": "What is the story of the foolish servant?",
+    "latency_seconds": 276.425,
+    "num_docs_retrieved": 3,
+    "success": true
+  }
+]
